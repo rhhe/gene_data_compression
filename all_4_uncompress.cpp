@@ -1,0 +1,5 @@
+#include "./source/Ron_d10_c10_bin_file.h"
+#include "./source/Ron_d10_c10_bin_file.cpp"
+#include "./source/Ron_d10_c20_compress.h"
+#include "./source/Ron_d10_c20_compress.cpp"
+#include "./source/main_uncompress.cpp"
